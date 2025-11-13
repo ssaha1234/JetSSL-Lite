@@ -4,7 +4,7 @@ defaults:
   - _self_
 
 # Information about which model to load and export
-output_dir: /srv/beegfs/scratch/groups/rodem/
+output_dir: /global/cfs/cdirs/m4958/usr/ssaha/JetSSL-Lite/
 project_name: jetssl-lite
 network_name: setme
 

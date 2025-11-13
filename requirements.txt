@@ -6,6 +6,8 @@ lightning==2.5.0.post0
 normflows==1.7.3
 onnx==1.17.0
 onnxruntime==1.20.1
+#wheel
+#flash-attn==2.7.3 --no-build-isolation
 flash_attn==2.7.3
 
 # clustering
